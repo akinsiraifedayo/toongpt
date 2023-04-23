@@ -32,4 +32,10 @@ NOTE: Still under development and would still answer some questions to words not
 
 This project is licensed under the [General Public Licence license](https://opensource.org/licenses/GPL).
 
+## Author
+
+- Name: [Ifedayo Akinsira-Olumide]
+- Email: [akinsiraolympicson@gmail.com]
+- GitHub: [akinsiraifedayo]
+- LinkedIn: [https://www.linkedin.com/in/ifedayoakinsira/]
 
