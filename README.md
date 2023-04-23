@@ -5,7 +5,7 @@ NOTE: Still under development and would still answer some questions to words not
 
 ## Usage
 
-1. Open the `json/config.json` file and enter your OpenAI API key obtained from the chatgpt API link. [OPENAI API KEY](https://platform.openai.com/account/api-keys){:target="_blank"}
+1. Open the `json/config.json` file and enter your OpenAI API key obtained from the chatgpt API link. [OPENAI API KEY](https://platform.openai.com/account/api-keys)
 
 2. Enter your OpenAI API key in the `php/api.php` file as well.
 3. Edit the settings in both files as needed.
